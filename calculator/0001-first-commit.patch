@@ -1,0 +1,20 @@
+From ee437495c1d1d78e5155b36ce64ec6f74fae1a60 Mon Sep 17 00:00:00 2001
+From: NPashaO <npsha@ukr.net>
+Date: Thu, 26 Dec 2019 12:21:26 +0200
+Subject: [PATCH] first commit
+
+---
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..09db635
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1 @@
++# lab3
+-- 
+2.17.1
+
